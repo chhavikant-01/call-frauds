@@ -18,7 +18,7 @@ export default function About() {
       id="about"
     >
       <SectionHeading>Introduction</SectionHeading>
-      <p className="mb-5">
+      <p className="mb-5 pl-10 pr-5">
       Fraudulent and fake calls have become a pervasive issue in India, posing significant threats to
 individuals, businesses, and the overall economy. This research paper provides an in-depth
 analysis of the challenges, emerging trends, and countermeasures related to fraud and fake
@@ -28,7 +28,7 @@ and mitigation. The findings underscore the urgent need for collaborative effort
 government bodies, law enforcement agencies, telecommunication providers, and public
 awareness campaigns to combat this growing menace.
       </p><br />
-      <p>
+      <p className="pl-10 pr-5">
       As per a survey conducted by online security firm McAfee, about half of Indians admitted
 that they were unable to differentiate between a genuine call and a fake voice call.It discusses
 the prevalence and impact of these calls on individuals, businesses, and the economy. It
@@ -40,7 +40,7 @@ law enforcement agencies, and the need for research and effective countermeasure
       <br />
 
       <SectionHeading>Tactics/Approach of Fraudulent and Fake Calls</SectionHeading>
-      <p className="mb-5">
+      <p className="mb-5 pl-10 pr-5">
       <span className="font-semibold underline">According to a several reports and research by R. Shelton, named “The Global Battle
 Against Telecom Fraud,” year 2003</span> Voice Phishing, commonly referred to as Vishing, is a
 type of fraud that involves the use of telephone calls to deceive individuals and extract
@@ -117,7 +117,7 @@ prevent foreclosure. These scammers request upfront fees but fail to deliver on 
 promises, leaving victims in a worse financial situation.
       </p>
       <SectionHeading>Socioeconomic Impact of Fraud and Fake Calls</SectionHeading>
-      <p className="mb-5">
+      <p className="mb-5 pl-10 pr-5">
       
 <span className="font-medium underline italic">Financial Loss:</span>&nbsp;
 Financial losses due to fake calls, particularly fraud and scam calls, are a significant concern
@@ -143,7 +143,7 @@ incident to the relevant authorities can also help in preventing further victimi
 holding scammers accountable.
       </p>
       <SectionHeading>Emerging Trends and Techniques</SectionHeading>
-      <p className="mb-5">
+      <p className="mb-5 pl-10 pr-5">
       <span className="font-medium underline italic">Use of Technological Advancements (e.g. AI-generated voices):</span>&nbsp;
 <span className="font-semibold">Over 83 percent Indians</span> have lost money because of AI-generated fake voice calls, survey
 reveals as<span className="font-semibold"> per a survey conducted by online security firm McAfee</span> , about half of Indians
@@ -166,22 +166,9 @@ unable to differentiate between genuine and AI-generated voice calls. The survey
 highlighted the financial impact of such scams, with mostof the Indian victims experiencing
 monetary losses.
       </p>
-      <SectionHeading>Regulatory and Legal Framework</SectionHeading>
-      <p className="mb-5">
-      <span className="font-medium underline italic">Existing Laws and Regulations:</span>&nbsp;
-The initiative of Government of India to facilitate victims/complainants to report cybercrime
-complaints online. portal caters to complaints pertaining to cybercrimes only with special
-focus on cyber-crimes complaints reported on this portal are dealt by law enforcement
-agencies/ police based on the information available in the complaints. It is imperative to
-provide correct and accurate details while filing complaint for prompt action.<br />
-Please contact local police in case of an emergency or for reporting crimes. <span className="font-semibold">Cyber Crime
-Helpline is 1930.</span><br/> Or you can filled a complaint on <a href="https://cybercrime.gov.in/Webform/Crime_AuthoLogin.aspx" className="text-blue-400 underline">https://cybercrime.gov.in/Webform/Crime_AuthoLogin.aspx</a> under cybercrime <span className="font-semibold">law
-Section 66:</span> Applies to any conduct described in <span className="font-semibold">Section 43</span> that is dishonest or fraudulent.
-There can be <span className="font-semibold">up to three years of imprisonment</span> in such instances, or a <span className="font-semibold">fine of up to INR. 5
-lakhs.</span>
-      </p>
+
       <SectionHeading>Technological Solutions and Countermeasures</SectionHeading>
-      <p className="mb-5">
+      <p className="mb-5 pl-10 pr-5">
       <span className="font-medium underline italic">From public perspective:</span>&nbsp;
 According to <a className="text-blue-400 underline" href="http://www.indiaforensic.com/fraudsinindia">http://www.indiaforensic.com/fraudsinindia</a>. people need to approach the
 following techniques to avoid such kind of vulnerabilities.<br />
